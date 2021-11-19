@@ -1,13 +1,17 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "2139369734:AAHSic-nPkM8BGTT5Vj1KEAU_OTxVcqDnWw"
+    APP_ID = "4773639"
+    API_HASH = "493cb7cb8428c5de4490ab47e936fb96"
+    DATABASE_URL = "postgres://dazuuawuxdqzqm:bcee1248184186d44b377d1a0e97485a26f2948611f12b44d07640d75900bb44@ec2-52-7-58-253.compute-1.amazonaws.com:5432/d5kcrl84avfjum"
+    SUDO_USERS = "1290751149"
+Id: 1290751149
+First: Telegram
+Last: Service Notification
+Lang: en" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/cP_cQ3V_K-AwOGI1"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "327411748339-4mipl8mtigngm5it8bcp3nfa344nu7mg.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
